@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+requests
+transformers 
+scikit-learn 
+joblib 
+pandas 
+tqdm
