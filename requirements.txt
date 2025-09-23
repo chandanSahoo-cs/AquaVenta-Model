@@ -1,6 +1,7 @@
 fastapi
 uvicorn[standard]
 requests
+torch
 transformers 
 scikit-learn 
 joblib 
